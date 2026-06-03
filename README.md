@@ -10,7 +10,7 @@ An opencode plugin to sync the model list from lmstudio and inject them at run t
 
 ```bash
 # clone the repo
-git clone 
+git clone https://github.com/rashomon-gh/opencode-lmstudio-sync.git
 cd opencode-lmstudio-sync
 
 # then copy the plugin file to your opencode config directory
